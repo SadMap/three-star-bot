@@ -10,7 +10,7 @@ client.on('messageReactionAdd', async (reaction, user) => {
 
   if (reaction.message.channel.id !== config.channel) {
     if (reaction.emoji.name === config.emoji) {
-      if (reaction.count === 1) {
+      if (reaction.count === 3) {
         if (reaction.message.attachments.array().length > 0) {
           var image = reaction.message.attachments.array()[0].url
         }
