@@ -15,5 +15,3 @@ emoji = '⭐'
 # Requirements
 
 - Discord.js
--
--
