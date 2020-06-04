@@ -5,7 +5,7 @@ This Discord bot will upload messages with 3 stars to the channel you choose.
 
 ```py
 token = '' # Your Discord Bot's token.
-channel = '' # 3 star messages will be send this channel.
+channel = '' # 3 star messages will send this channel.
 emoji = '⭐'
 ```
 
