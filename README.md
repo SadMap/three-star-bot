@@ -11,4 +11,4 @@ emoji = '⭐'
 
 # Requirements
 
-- Discord.js:(https://discord.js.org/#/)
+- Discord.js(https://discord.js.org/#/)
